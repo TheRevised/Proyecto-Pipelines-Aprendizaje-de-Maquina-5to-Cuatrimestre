@@ -1,0 +1,3 @@
+*.ipynb linguist-language=Jupyter Notebook
+*.pkl binary
+*.csv text eol=lf
